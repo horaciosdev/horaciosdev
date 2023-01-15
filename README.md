@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hor4cles
+- 👋 Hi, I’m Horácio Schumann!
 - 👀 I’m interested in coding, 3d modeling, photography, art and drawing.
 - 🌱 I’m currently learning Typescript, REACT, Angular, AdonisJs and GitHub.
 - 📫 How to reach me? Just follow the link https://horaciosdev.github.io/
