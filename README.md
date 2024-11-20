@@ -1,11 +1,10 @@
 <div>  
   <h1 align="center">
-    Hello! i'm 
     <a href="https://www.linkedin.com/in/horaciosdev/">Horácio Schumann</a>
     <br>
   </h1>
- <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=fetch("Grandes Ideias!").then(🚀);parseCode("Grandes ✨ Soluções!");debug("🫸🐛");console.log("Linhas que 🔗 conectam!");while(coding) { drinkCoffee(☕) };)](https://git.io/typing-svg)
+   <div align="center">
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=fetch("Grandes+Ideias!").then(🚀);parseCode("Grandes+✨+Soluções!");debug("🫸🐛");console.log("Linhas+que+🔗+conectam!");while(coding){+drinkCoffee(☕)+};)](https://git.io/typing-svg)
   </div>
 </div>
 
