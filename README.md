@@ -1,12 +1,10 @@
-<div>  
-  <h1 align="center">
-    <a href="https://www.linkedin.com/in/horaciosdev/">Horácio Schumann</a>    
-  </h1>
-   <div align="center">
-     <img src="https://readme-typing-svg.demolab.com/?lines=fetch(&quot;Grandes+Ideias!&quot;).then(🚀);parseCode(&quot;Grandes+✨+Soluções!&quot;);debug(&quot;🫸🐛&quot;);console.log(&quot;Linhas+que+🔗+conectam!&quot;);while(coding){+drinkCoffee(☕)+}&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" >
-  </div>
+<h1 align="center">
+   <a href="https://www.linkedin.com/in/horaciosdev/">Horácio Schumann</a>    
+</h1>
+<div align="center">
+   <img src="https://readme-typing-svg.demolab.com/?lines=fetch(&quot;Grandes+Ideias!&quot;).then(🚀);parseCode(&quot;Grandes+✨+Soluções!&quot;);debug(&quot;🫸🐛&quot;);console.log(&quot;Linhas+que+🔗+conectam!&quot;);while(coding){+drinkCoffee(☕)+}&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" >
 </div>
-
+  
 <div align="center" valign="top"><br>
   <p align="center">
     <a href="https://skillicons.dev">    
