@@ -4,16 +4,38 @@
     <br>
   </h1>
    <div align="center">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=fetch("Grandes+Ideias!").then(🚀);parseCode("Grandes+✨+Soluções!");debug("🫸🐛");console.log("Linhas+que+🔗+conectam!");while(coding){+drinkCoffee(☕)+};)](https://git.io/typing-svg)
+     <img src="https://readme-typing-svg.demolab.com/?lines=fetch(&quot;Grandes+Ideias!&quot;).then(🚀);parseCode(&quot;Grandes+✨+Soluções!&quot;);debug(&quot;🫸🐛&quot;);console.log(&quot;Linhas+que+🔗+conectam!&quot;);while(coding){+drinkCoffee(☕)+}&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </div>
 </div>
 
 <div align="center" valign="top"><br>
 
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,html,css,ts,angular,dotnet,react,php,laravel,mysql" />
-    </a>
+    <a href="https://skillicons.dev">    
+    <h3>Version Control & Repositories</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+    <br />    
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    <br />    
+    <h3>Frontend Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+    <br />    
+    <h3>JavaScript Frameworks & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=react,redux,prisma,nextjs,ts,vercel" />
+    <br />    
+    <h3>CSS Frameworks & Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,scss,materialui" />
+    <br />    
+    <h3>Backend Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,adonis,php,laravel" />
+    <br />    
+    <h3>Development Tools</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,photoshop,blender" />
+    <br />
+    <h3>Operating Systems</h3>
+    <img src="https://skillicons.dev/icons?i=windows,linux,mint" />
+  </a>
   </p>
    
 </div>
