@@ -1,46 +1,41 @@
 <div>  
   <h1 align="center">
-    <a href="https://www.linkedin.com/in/horaciosdev/">Horácio Schumann</a>
-    <br>
+    <a href="https://www.linkedin.com/in/horaciosdev/">Horácio Schumann</a>    
   </h1>
    <div align="center">
-     <img src="https://readme-typing-svg.demolab.com/?lines=fetch(&quot;Grandes+Ideias!&quot;).then(🚀);parseCode(&quot;Grandes+✨+Soluções!&quot;);debug(&quot;🫸🐛&quot;);console.log(&quot;Linhas+que+🔗+conectam!&quot;);while(coding){+drinkCoffee(☕)+}&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com/?lines=fetch(&quot;Grandes+Ideias!&quot;).then(🚀);parseCode(&quot;Grandes+✨+Soluções!&quot;);debug(&quot;🫸🐛&quot;);console.log(&quot;Linhas+que+🔗+conectam!&quot;);while(coding){+drinkCoffee(☕)+}&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" >
   </div>
 </div>
 
 <div align="center" valign="top"><br>
-
   <p align="center">
     <a href="https://skillicons.dev">    
-    <h3>Version Control & Repositories</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
-    <br />    
-    <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-    <br />    
-    <h3>Frontend Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
-    <br />    
-    <h3>JavaScript Frameworks & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react,redux,prisma,nextjs,ts,vercel" />
-    <br />    
-    <h3>CSS Frameworks & Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,scss,materialui" />
-    <br />    
-    <h3>Backend Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,adonis,php,laravel" />
-    <br />    
-    <h3>Development Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,postman,photoshop,blender" />
-    <br />
-    <h3>Operating Systems</h3>
-    <img src="https://skillicons.dev/icons?i=windows,linux,mint" />
-  </a>
-  </p>
-   
+      <h3>Version Control & Repositories</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+      <br />    
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+      <br />    
+      <h3>Frontend Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+      <br />    
+      <h3>JavaScript Frameworks & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=react,redux,prisma,nextjs,ts,vercel" />
+      <br />    
+      <h3>CSS Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,scss,materialui" />
+      <br />    
+      <h3>Backend Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,adonis,php,laravel" />
+      <br />    
+      <h3>Development Tools</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,postman,photoshop,blender" />
+      <br />
+      <h3>Operating Systems</h3>
+      <img src="https://skillicons.dev/icons?i=windows,linux,mint" />
+    </a>
+  </p>   
 </div>
-
-<br/>
 
 <br/>
 
